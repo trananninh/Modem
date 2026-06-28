@@ -1082,14 +1082,15 @@
                     "rmnet"
                 ]
             },
-            "mc7354": {
+            "em9291": {
                 "manufacturer_id": "1199",
                 "manufacturer": "sierra",
-                "platform": "lte",
+                "platform": "qualcomm",
                 "data_interface": "usb",
                 "pdp_index": "1",
                 "modes": [
-                    "qmi"
+                    "mbim"
+                    "rmnet"
                 ]
             },
             "mc7355": {
@@ -1733,14 +1734,14 @@
                     "rmnet"
                 ]
             },
-            "fn990a40": {
-                "manufacturer": "telit",
+            "em9291": {
+                "manufacturer": "sierra",
                 "platform": "qualcomm",
-                "data_interface": "usb",
+                "data_interface": "pcie",
                 "pdp_index": "1",
                 "modes": [
                     "mbim",
-                    "qmi"
+                    "rmnet"
                 ]
             }
         },
